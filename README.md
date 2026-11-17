@@ -8,7 +8,7 @@
   <a href="mailto:joaneshwc31@gmail.com">E-mail</a>
 </p>
 
-## Sobre
+## Sobre mim
 
 Analista de TI em Boa Vista (RR), com experiência em infraestrutura, suporte técnico e desenvolvimento full stack. Liderei a modernização do sistema interno de atendimento da Hemissul — mais de 4 mil chamados em seis meses — e participei da implantação da tecnologia de uma nova unidade de saúde.
 
